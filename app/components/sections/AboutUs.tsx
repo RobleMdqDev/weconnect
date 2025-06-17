@@ -134,8 +134,8 @@ export default function AboutUs() {
             ></motion.div>
 
             {/* Image placeholder */}
-            <div className="bg-[#7FDFD4] rounded-lg aspect-[4/3] overflow-hidden">
-              <div className="w-full h-full flex items-center justify-center">
+            <div className="bg-[#7FDFD4] rounded-lg aspect-[4/3] overflow-hidden hidden md:flex">
+              <div className="w-full h-full items-center justify-center flex">
                 <Image
                   src="/images/about.png"
                   alt="About Us Image"
