@@ -97,7 +97,7 @@ export default function WhyChooseUs() {
                           {index === 0 && "Learn by doing"}
                           {index === 1 && "Industry focused"}
                           {index === 2 && "Interactive learning"}
-                          {index === 3 && "Personal attention"}
+                          {index === 3 && "Personalized feedback"}
                         </p>
                       </div>
                     </motion.div>
