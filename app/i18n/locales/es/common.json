@@ -1,0 +1,131 @@
+{
+  "nav": {
+    "links": {
+      "about": {"text": "Sobre Nosotros", "href": "#about"},
+      "services": {"text": "Servicios", "href": "#services"},
+      "why_us": {"text": "Por Qué Elegirnos", "href": "#why-us"}
+    },
+    "cta": {
+      "start_learning": {"text": "Comenzar a Aprender", "href": "#contact"}
+    }
+  },
+  "footer": {
+    "brand": {
+      "tagline": "Transformando vidas a través de la educación lingüística de calidad desde 2023"
+    },
+    "quick_links": {
+      "title": "Enlaces Rápidos",
+      "links": {
+        "about": {"text": "Sobre Nosotros", "href": "about"},
+        "services": {"text": "Servicios", "href": "services"},
+        "why_us": {"text": "Por Qué Elegirnos", "href": "why-us"},
+        "contact": {"text": "Contacto", "href": "contact"}
+      }
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "email": "we.connect.languages@gmail.com",
+      "phone": "+34 123 456 789",
+      "address": "Calle Principal 123, Madrid, España"
+    },
+    "copyright": "© 2023 Connect Languages. Todos los derechos reservados.",
+    "privacy_policy": "Política de Privacidad",
+    "terms_of_service": "Términos de Servicio"
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "last_updated": "Última Actualización: 1 de diciembre de 2023",
+    "sections": {
+      "introduction": {
+        "title": "Introducción",
+        "content": "En Connect Languages, nos tomamos muy en serio tu privacidad. Esta Política de Privacidad explica cómo recopilamos, utilizamos y protegemos tu información personal."
+      },
+      "information_collected": {
+        "title": "Información que Recopilamos",
+        "content": "Recopilamos la información que nos proporcionas directamente, incluyendo:",
+        "items": [
+          "Nombre e información de contacto",
+          "Antecedentes educativos y nivel de idioma",
+          "Información de pago",
+          "Preferencias de comunicación"
+        ]
+      },
+      "use_of_information": {
+        "title": "Cómo Utilizamos tu Información",
+        "content": "Utilizamos la información recopilada para:",
+        "items": [
+          "Proporcionar y mejorar nuestros servicios",
+          "Comunicarnos contigo sobre nuestros servicios",
+          "Procesar pagos",
+          "Enviarte actualizaciones y comunicaciones de marketing"
+        ]
+      },
+      "data_protection": {
+        "title": "Protección de Datos",
+        "content": "Implementamos medidas de seguridad apropiadas para proteger tu información personal contra acceso, alteración o divulgación no autorizados."
+      },
+      "your_rights": {
+        "title": "Tus Derechos",
+        "content": "Tienes derecho a:",
+        "items": [
+          "Acceder a tu información personal",
+          "Corregir información inexacta",
+          "Solicitar la eliminación de tu información",
+          "Optar por no recibir comunicaciones de marketing"
+        ]
+      },
+      "contact": {
+        "title": "Contáctanos",
+        "content": "Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en:"
+      }
+    }
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "last_updated": "Última Actualización: 1 de diciembre de 2023",
+    "sections": {
+      "introduction": {
+        "title": "Introducción",
+        "content": "Estos Términos de Servicio rigen tu uso de los servicios de Connect Languages. Al utilizar nuestros servicios, aceptas estos términos."
+      },
+      "services": {
+        "title": "Servicios",
+        "content": "Proporcionamos servicios de aprendizaje de idiomas, incluyendo:",
+        "items": [
+          "Clases de idiomas en línea",
+          "Materiales educativos",
+          "Evaluación y seguimiento",
+          "Preparación para certificaciones de idiomas"
+        ]
+      },
+      "user_obligations": {
+        "title": "Obligaciones del Usuario",
+        "content": "Como usuario, te comprometes a:",
+        "items": [
+          "Proporcionar información precisa",
+          "Mantener la confidencialidad de tu cuenta",
+          "Usar los servicios de manera responsable",
+          "Respetar los derechos de propiedad intelectual"
+        ]
+      },
+      "payment": {
+        "title": "Términos de Pago",
+        "content": "Los términos de pago incluyen:",
+        "items": [
+          "Las tarifas son pagaderas por adelantado",
+          "Los reembolsos están sujetos a nuestra política de reembolso",
+          "Los precios pueden cambiar con previo aviso",
+          "Los pagos atrasados pueden resultar en la suspensión del servicio"
+        ]
+      },
+      "liability": {
+        "title": "Limitación de Responsabilidad",
+        "content": "Connect Languages no es responsable por daños indirectos, incidentales o consecuentes que surjan del uso de nuestros servicios."
+      },
+      "changes": {
+        "title": "Cambios en los Términos",
+        "content": "Podemos modificar estos términos en cualquier momento. El uso continuado de nuestros servicios constituye la aceptación de los términos modificados."
+      }
+    }
+  }
+}

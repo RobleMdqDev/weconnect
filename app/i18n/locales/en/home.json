@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": {
+      "main": "Master Spanish and English with",
+      "highlight": "Connect Languages"
+    },
+    "subtitle": "Business and general language training for professionals and companies",
+    "description": "Online Spanish and English classes focused on business and international environments. Communicative method oriented to practical results.",
+    "buttons": {
+      "primary": "Request Information",
+      "secondary": "Learn More"
+    }
+  },
+  "about": {
+    "span_title": "ONLINE LEARNING",
+    "title": "Learn",
+    "title_highlight": " Everyday",
+    "subtitle": "Connect Languages offers quality language training for companies and professionals looking to excel in the international arena.",
+    "specialized_training": {
+      "items": [
+        "Effective meetings and presentations",
+        "International negotiations",
+        "Professional written and oral communication"
+      ]
+    },
+    "method": {
+      "title": "Our Method",
+      "practical": {
+        "title": "Practical Approach",
+        "description": "Learning based on real situations"
+      },
+      "monitoring": {
+        "title": "Continuous Monitoring",
+        "description": "Personalized evaluation and feedback"
+      }
+    },
+    "cta": {
+      "read_more": "Read More"
+    }
+  },
+  "services": {
+    "title": "Education and Learning",
+    "subtitle": "Complete language training solutions for your professional development",
+    "items": {
+      "language_classes": {
+        "title": "Language Classes",
+        "description": "Spanish and English for business and general use. Levels from A1 to C2."
+      },
+      "business_training": {
+        "title": "Business Training",
+        "description": "Specialized programs for companies and professional teams."
+      },
+      "flexible_sessions": {
+        "title": "Flexible Sessions",
+        "description": "Individual and group classes with schedules adapted to you."
+      },
+      "custom_content": {
+        "title": "Custom Content",
+        "description": "Lessons adapted to your specific goals and needs."
+      },
+      "flexible_schedule": {
+        "title": "Flexible Schedule",
+        "description": "Schedule your classes according to your availability and preferences."
+      },
+      "continuous_monitoring": {
+        "title": "Continuous Monitoring",
+        "description": "Regular evaluation and detailed feedback on your progress."
+      }
+    },
+    "cta": {
+      "read_more": "Read More"
+    }
+  },
+  "why_us": {
+    "title": "Why Choose Us",
+    "subtitle": "Discover the advantages that make us different",
+    "items": {
+      "practical_learning": {
+        "title": "Practical Learning",
+        "description": "Methodology oriented to concrete objectives and measurable results."
+      },
+      "business_specialization": {
+        "title": "Business Specialization",
+        "description": "Training adapted to the professional and corporate world."
+      },
+      "dynamic_classes": {
+        "title": "Dynamic Classes",
+        "description": "Interactive sessions that maximize your participation and learning."
+      },
+      "personalized_monitoring": {
+        "title": "Personalized Monitoring",
+        "description": "Detailed feedback and constant monitoring of your progress."
+      }
+    }
+  },
+  "contact": {
+    "title": "Join online courses",
+    "title_highlight": " today",
+    "subtitle": "Ready to improve your language skills?",
+    "message": "Write to us and we'll respond as soon as possible",
+    "email_button": "Send Email",
+    "direct_contact": "Or write to us directly at:"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": {
+      "main": "Domina el Español e Inglés con",
+      "highlight": "Connect Languages"
+    },
+    "subtitle": "Formación lingüística empresarial y general para profesionales y empresas",
+    "description": "Clases online de inglés y español enfocadas en el ámbito empresarial e internacional. Método comunicativo orientado a resultados prácticos.",
+    "buttons": {
+      "primary": "Solicitar Información",
+      "secondary": "Conocer Más"
+    }
+  },
+  "about": {
+    "span_title": "ONLINE LEARNING",
+    "title": "Aprende",
+    "title_highlight": " Cada día",
+    "subtitle": "Connect Languages ofrece formación lingüística de calidad para empresas y profesionales que buscan destacar en el ámbito internacional.",
+    "specialized_training": {
+      "items": [
+        "Reuniones y presentaciones efectivas",
+        "Negociaciones internacionales",
+        "Comunicación profesional escrita y oral"
+      ]
+    },
+    "method": {
+      "title": "Nuestro Método",
+      "practical": {
+        "title": "Enfoque Práctico",
+        "description": "Aprendizaje basado en situaciones reales"
+      },
+      "monitoring": {
+        "title": "Seguimiento Continuo",
+        "description": "Evaluación y feedback personalizado"
+      }
+    },
+    "cta": {
+      "read_more": "Conocer Más"
+    }
+  },
+  "services": {
+    "title": "¿Qué Ofrecemos?",
+    "subtitle": "Soluciones completas de formación lingüística para tu desarrollo profesional",
+    "items": {
+      "language_classes": {
+        "title": "Clases de Idiomas",
+        "description": "Español e inglés para negocios y uso general. Niveles desde A1 hasta C2."
+      },
+      "business_training": {
+        "title": "Formación Empresarial",
+        "description": "Programas especializados para empresas y equipos profesionales."
+      },
+      "flexible_sessions": {
+        "title": "Sesiones Flexibles",
+        "description": "Clases individuales y grupales con horarios adaptados a ti."
+      },
+      "custom_content": {
+        "title": "Contenido Personalizado",
+        "description": "Lecciones adaptadas a tus objetivos y necesidades específicas."
+      },
+      "flexible_schedule": {
+        "title": "Horarios Flexibles",
+        "description": "Programa tus clases según tu disponibilidad y preferencias."
+      },
+      "continuous_monitoring": {
+        "title": "Seguimiento Continuo",
+        "description": "Evaluación regular y feedback detallado de tu progreso."
+      }
+    },
+    "cta": {
+      "read_more": "Conocer Más"
+    }
+  },
+  "why_us": {
+    "title": "¿Por Qué Elegirnos?",
+    "subtitle": "Descubre las ventajas que nos hacen diferentes",
+    "items": {
+      "practical_learning": {
+        "title": "Aprendizaje Práctico",
+        "description": "Metodología orientada a objetivos concretos y resultados medibles."
+      },
+      "business_specialization": {
+        "title": "Especialización Empresarial",
+        "description": "Formación adaptada al mundo profesional y corporativo."
+      },
+      "dynamic_classes": {
+        "title": "Clases Dinámicas",
+        "description": "Sesiones interactivas que maximizan tu participación y aprendizaje."
+      },
+      "personalized_monitoring": {
+        "title": "Seguimiento Personalizado",
+        "description": "Feedback detallado y monitoreo constante de tu progreso."
+      }
+    }
+  },
+  "contact": {
+    "title": "Únete a nuestros cursos en línea",
+    "title_highlight": " hoy mismo",
+    "subtitle": "¿Listo para mejorar tus habilidades lingüísticas?",
+    "message": "Escríbenos y te responderemos lo antes posible",
+    "email_button": "Enviar Email",
+    "direct_contact": "O escríbenos directamente a:"
+  }
+}
