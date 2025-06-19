@@ -65,9 +65,8 @@ export default function WhyChooseUs() {
                     }`}
                   >
                     <div className="absolute inset-0 flex items-center justify-center text-white">
-                      {/* Image Placeholder {index + 1} */}
                       <Image
-                        src={`/images/card${index + 1}.png`}
+                        src={`/images/card${index + 1}.webp`}
                         alt={`Why Choose Us ${index + 1}`}
                         className="object-cover w-full h-full rounded-lg"
                         width={500}

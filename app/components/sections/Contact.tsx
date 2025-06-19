@@ -39,7 +39,7 @@ export default function Contact() {
                 {/* Image placeholder */}
                 <div className="w-full h-full flex items-center justify-center">
                   <Image
-                    src="/images/contact.png"
+                    src="/images/contact.webp"
                     alt="Contact Us"
                     width={300}
                     height={300}

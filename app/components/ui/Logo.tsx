@@ -16,7 +16,7 @@ export default function Logo({className = "", imageClassName = ""}: LogoProps) {
     >
       <div className="relative w-full h-full">
         <Image
-          src="/logo.png"
+          src="/logo.webp"
           alt="Connect Languages Logo"
           fill
           className={`object-contain ${imageClassName}`}
