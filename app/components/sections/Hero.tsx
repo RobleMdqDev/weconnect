@@ -9,17 +9,15 @@ export default function Hero() {
   const {t} = useTranslation(["home"]);
 
   return (
-    <div className="relative overflow-hidden min-h-[600px] h-screen">
+    <div className="relative overflow-hidden min-h-[600px] w-full h-screen bg-[#7FDFD4] z-0">
+      {/* Dark Overlay */}
+      <div className="absolute inset-0 z-10 bg-gradient-to-b from-black/60 to-[#7FDFD4]/30" />
       {/* Parallax Background */}
       <ParallaxBackground />
-
-      {/* Dark Overlay */}
-      <div className="absolute inset-0 z-10 bg-gradient-to-b from-black/30 to-[#7FDFD4]/70" />
-
       {/* Content Overlay */}
-      <div className="relative z-20 h-full flex flex-col justify-center max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
+      <div className="relative z-20 h-full flex flex-col justify-center w-full mx-auto px-4 sm:px-6 lg:px-8 py-32">
         <div className="text-center">
-          <h1 className="flex flex-col text-5xl md:text-6xl font-bold mb-6 text-white text-shadow-lg">
+          <h1 className="flex flex-col text-4xl mt-28 md:text-5xl font-bold mb-6 text-white text-shadow-lg">
             {t("hero.title.main")}
             <span className="text-[#7FDFD4]">{t("hero.title.highlight")}</span>
           </h1>
@@ -31,7 +29,7 @@ export default function Hero() {
               href="#contact"
               variant="primary"
               size="lg"
-              className="bg-[#7FDFD4] hover:bg-[#6FCFC4] text-white shadow-lg"
+              className="bg-[#7FDFD4] hover:bg-[#7FDFD4] text-white shadow-lg"
               onClick={(e) => insideNavegation(e, "#contact")}
             >
               {t("hero.buttons.primary")}
