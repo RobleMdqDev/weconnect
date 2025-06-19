@@ -84,7 +84,7 @@ export default function Services() {
                     {t(service.descriptionKey)}
                   </p>
                 </div>
-                <Link
+                {/* <Link
                   href="#why-us"
                   className="text-[#7FDFD4] font-medium hover:text-[#6FCFC4] transition-colors"
                   onClick={(e) => {
@@ -92,7 +92,7 @@ export default function Services() {
                   }}
                 >
                   {t("services.cta.read_more")}
-                </Link>
+                </Link> */}
               </div>
 
               {/* Bottom Border Animation */}
